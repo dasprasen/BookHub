@@ -1,4 +1,4 @@
-# bookhub
+# BookHub
 This project is totally Based on java and DBMS where the admin will manage all the books in his warehouse and he can add,delete,update and even search the book.
 
 The modules are:
